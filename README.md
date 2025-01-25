@@ -31,15 +31,18 @@ Welcome to the repository for **Searching Techniques and Linked List Operations*
 ---
 
 ## 🎨 Application Interface
-![Linked List Operations Screenshot](https://via.placeholder.com/800x400.png?text=Linked+List+Operations+Screenshot)
-
+![Linear Search Screenshot]()
+![Binary Search Screenshot](https://via.placeholder.com/800x400.png?text=Linked+List+Operations+Screenshot)
+![Index Search Screenshot](https://via.placeholder.com/800x400.png?text=Linked+List+Operations+Screenshot)
+![Hash Search Screenshot]()
+![Merging Screenshot]()
 ---
 
 ## 📂 Project Structure
 The repository includes the following files:
 - **MainGUI.java**: Entry point for the application.
 - **Linear.java**: Class Containing implementations of Linear Search.
-- **binary**: Class Containing implementations of Binary Search.
+- **binary.java**: Class Containing implementations of Binary Search.
 - **Index.java**: Class Containing implementations of Index Search..
 - **Hash.java**: Class Containing implementations of Hash Search.
 - **Merged.java**: Class Containing implementations of Merging of two Singly linked list.
