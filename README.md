@@ -31,11 +31,9 @@ Welcome to the repository for **Searching Techniques and Linked List Operations*
 ---
 
 ## 🎨 Application Interface
-![Linear Search Screenshot]()
-![Binary Search Screenshot](https://via.placeholder.com/800x400.png?text=Linked+List+Operations+Screenshot)
-![Index Search Screenshot](https://via.placeholder.com/800x400.png?text=Linked+List+Operations+Screenshot)
-![Hash Search Screenshot]()
-![Merging Screenshot]()
+![Project Screenshot](https://github.com/user-attachments/assets/08a36ac6-ba5e-4c56-a6f8-f67a27fb07ec)
+
+
 ---
 
 ## 📂 Project Structure
