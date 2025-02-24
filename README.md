@@ -56,12 +56,6 @@ The repository includes the following files:
 
 ---
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
----
 
 ## 📫 Contact
 - 📧 Email:(pandeydeepasunil@gmail.com)
